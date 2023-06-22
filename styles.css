@@ -35,7 +35,7 @@ body{
 }
 .container-1{
     width: 451px;
-    min-height: 393px;
+    min-height: 483px;
     padding: 55px 20px;
     background: linear-gradient(10deg,hsl(241, 81%, 54%), hsl(252, 100%, 67%));
     border-radius: 5%;
@@ -81,7 +81,7 @@ body{
 }
 .container-1-2{
     position: relative;
-    top: 19px;
+    top: 53px;
 }
 .container_header-1-2{
     font-size:  18px;
@@ -110,7 +110,7 @@ body{
 }
 .container-2_header{
     height: 22px;
-    font-size: 16px;
+    font-size: 34px;
     padding-bottom: 55px;
 
 }
